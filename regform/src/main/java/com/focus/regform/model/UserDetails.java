@@ -1,3 +1,4 @@
+// This is a model class
 package com.focus.regform.model;
 
 import javax.persistence.Column;
